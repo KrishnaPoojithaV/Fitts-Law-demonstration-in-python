@@ -13,7 +13,7 @@ The term log 2( 2D / W ) is called the index of difficulty (ID). It describes th
 motor tasks.
                                                 
 GUI Designed to illustrate the Fitts’ Law :
-➔ A circle will be displayed on the screen which is to be clicked as it appears.
-➔ After clicking on the circle, another circle with random size, color and position will
-appear on the screen.
-➔ This process repeats for 21 circles.
+  ➔ A circle will be displayed on the screen which is to be clicked as it appears.
+  ➔ After clicking on the circle, another circle with random size, color and position will
+  appear on the screen.
+  ➔ This process repeats for 21 circles.
