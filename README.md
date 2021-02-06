@@ -5,6 +5,7 @@ Thus, the longer the distance and the smaller the target’s size, the longer it
 The mathematical formula behind Fitts’ law is :
                               
 T (Time) = a + b log2 (2 D (Distance)/ W (Width)
+
 ➢ a : Start / Stop time of the device (y intercept)
 
 ➢ b : Inherent speed of the device (slope of line)
